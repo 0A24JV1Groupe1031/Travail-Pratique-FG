@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/Salle \xE0 manger.unity"
+    path: Assets/Scenes/SalleAManger.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Chambre.unity
+    guid: 2ba14d285c39f704ab83d916fede1be9
+  - enabled: 1
+    path: Assets/Scenes/Cuisine.unity
+    guid: 1ff95015da058de44a6cc2564d127e5f
   m_configObjects: {}
